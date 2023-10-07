@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px 0;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.slider {
+
+  background-size: cover;
+  color: #000000;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.footer {
+  background-color: #000000;
+  color: white;
+  padding: 10px 0;
+}
+
+.footer-logo {
+  margin-bottom: 20px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.footer-links a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.instagram{
+  width: 100px;
+  height: 100px;
+}
+.telegramm{
+  width: 150px;
+  height: 100px;
+}
+.facebook{
+  width: 150px;
+  height: 110px;
+}
+.previous{
+  border-radius: 50px;
+}
